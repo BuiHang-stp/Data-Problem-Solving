@@ -11,5 +11,14 @@
   "practice/sql/easy/easy-where-010/solution.sql": "d4fc6c6d13227c4eb0eaf02015b56f46fd1205fd2dad32a9c1b547e05a10ae61",
   "practice/sql/easy/easy-select-005/solution.sql": "822f8b0c326d087ac09599fa530b74258df6b036581964c4f4f2b65ee1c25188",
   "practice/sql/easy/easy-sum-003/solution.sql": "ceb9bde53ccee46d5a8751b46106c41bc83fbdebfd1129b1540e1048ca010641",
-  "practice/python/easy/py-average/solution.py": "4d343f4a23ab93d708094449d3708f46c6ae54620e90afe95e245d47d7dd6e12"
+  "practice/python/easy/py-average/solution.py": "4d343f4a23ab93d708094449d3708f46c6ae54620e90afe95e245d47d7dd6e12",
+  "practice/python/easy/pd-table-size/solution.py": "b5efabd918c8acc37252a41ebb93d030209182296eaf65df5ee434cb3b66dab2",
+  "practice/sql/easy/easy-select-002/solution.sql": "9dcb5cdbc38fb2e7333a2581616fb91e3af201f28a0aabbbb3b052fe71d3a9eb",
+  "practice/sql/easy/easy-where-001/solution.sql": "d7aaae11eb5ea8fcfc14bd35cd9bcf4e4f1f33d54bf88dd4b4aa634fade267dc",
+  "practice/sql/easy/easy-distinct-006/solution.sql": "09d3270780e03dcc3862d9caca065d024c8dc09ecc1ecb96588acf7dc3e3eb89",
+  "practice/sql/easy/easy-count-001/solution.sql": "ed4b8e72f6e71910f61127c61faba2d52d82e2423122601699ca05c7847acc49",
+  "practice/sql/easy/easy-sum-001/solution.sql": "2e260f3d2246021a680732f39d86e40eea840804624e802895ae2420d1b3cde5",
+  "practice/sql/easy/easy-avg-001/solution.sql": "73df1a9681f805cfcd3ef79d43982c0baf0b131dd9b6968e63a51bff2db1cdaf",
+  "practice/sql/medium/medium-join-001/solution.sql": "ab8c42b4b59b3e730d1e138090cb8bcb3180814bd132194e96563f32e4cbacc1",
+  "practice/sql/medium/medium-leftjoin-031/solution.sql": "3010f3d40b85bbfe739da992f7a4686f992d3ddabd3b83fef58a8a56e1fa7895"
 }

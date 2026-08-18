@@ -173,26 +173,26 @@ Reach me via [LinkedIn](https://www.linkedin.com/in/buithuhang/) or [buihang.wor
 
 <!-- xomdata:stats:start -->
 
-**13** problems solved on [Xom Data](https://xomdata.com/practice).
+**22** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 1 | 0 | 0 | 0 | 1 |
-| SQL | 12 | 0 | 0 | 0 | 12 |
+| Python | 2 | 0 | 0 | 0 | 2 |
+| SQL | 18 | 2 | 0 | 0 | 20 |
 
 **Recently solved**
 
+- [medium-leftjoin-031](https://xomdata.com/practice/medium-leftjoin-031) · Medium · 2026-08-18
+- [medium-join-001](https://xomdata.com/practice/medium-join-001) · Medium · 2026-08-18
+- [easy-avg-001](https://xomdata.com/practice/easy-avg-001) · Easy · 2026-08-18
+- [easy-sum-001](https://xomdata.com/practice/easy-sum-001) · Easy · 2026-08-18
+- [easy-count-001](https://xomdata.com/practice/easy-count-001) · Easy · 2026-08-18
+- [easy-distinct-006](https://xomdata.com/practice/easy-distinct-006) · Easy · 2026-08-18
+- [easy-where-001](https://xomdata.com/practice/easy-where-001) · Easy · 2026-08-18
+- [easy-select-002](https://xomdata.com/practice/easy-select-002) · Easy · 2026-08-18
+- [pd-table-size](https://xomdata.com/practice/pd-table-size) · Easy · 2026-08-18
 - [py-average](https://xomdata.com/practice/py-average) · Easy · 2026-08-18
-- [easy-sum-003](https://xomdata.com/practice/easy-sum-003) · Easy · 2026-08-18
-- [easy-select-005](https://xomdata.com/practice/easy-select-005) · Easy · 2026-08-18
-- [easy-where-010](https://xomdata.com/practice/easy-where-010) · Easy · 2026-08-18
-- [easy-select-001](https://xomdata.com/practice/easy-select-001) · Easy · 2026-08-18
-- [easy-orderby-001](https://xomdata.com/practice/easy-orderby-001) · Easy · 2026-08-18
-- [easy-minmax-001](https://xomdata.com/practice/easy-minmax-001) · Easy · 2026-08-18
-- [easy-max-001](https://xomdata.com/practice/easy-max-001) · Easy · 2026-08-18
-- [easy-limit-004](https://xomdata.com/practice/easy-limit-004) · Easy · 2026-08-18
-- [easy-limit-002](https://xomdata.com/practice/easy-limit-002) · Easy · 2026-08-18
 
-_Synced 13 solutions · last update 2026-08-18_
+_Synced 22 solutions · last update 2026-08-18_
 
 <!-- xomdata:stats:end -->

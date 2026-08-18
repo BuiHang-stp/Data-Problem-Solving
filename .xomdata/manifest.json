@@ -6,5 +6,10 @@
   "practice/sql/easy/easy-limit-004/solution.sql": "4d1c08a0df84a91d6d9befd42e00623dc612ba4b3009d3995205db3dca4110d5",
   "practice/sql/easy/easy-max-001/solution.sql": "04d6aa02ab0ce4c4cafab2e8a3817ce59cad7fd8a964c154795410e328ccbcb3",
   "practice/sql/easy/easy-minmax-001/solution.sql": "fb94e41e2df816366d10bb4b918e65ffe80939d28401d62b29dd4b5af01f38f8",
-  "practice/sql/easy/easy-orderby-001/solution.sql": "122d93c65fa486acc6aa0eae27a4986e4aab27397a2bd59a8f38af1a484a56a3"
+  "practice/sql/easy/easy-orderby-001/solution.sql": "122d93c65fa486acc6aa0eae27a4986e4aab27397a2bd59a8f38af1a484a56a3",
+  "practice/sql/easy/easy-select-001/solution.sql": "8587bd95053cfabfd753cf05b3b04aedd5b3090d023fd973c54db3080109abb3",
+  "practice/sql/easy/easy-where-010/solution.sql": "d4fc6c6d13227c4eb0eaf02015b56f46fd1205fd2dad32a9c1b547e05a10ae61",
+  "practice/sql/easy/easy-select-005/solution.sql": "822f8b0c326d087ac09599fa530b74258df6b036581964c4f4f2b65ee1c25188",
+  "practice/sql/easy/easy-sum-003/solution.sql": "ceb9bde53ccee46d5a8751b46106c41bc83fbdebfd1129b1540e1048ca010641",
+  "practice/python/easy/py-average/solution.py": "4d343f4a23ab93d708094449d3708f46c6ae54620e90afe95e245d47d7dd6e12"
 }

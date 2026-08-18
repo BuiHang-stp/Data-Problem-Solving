@@ -159,6 +159,14 @@ It serves as both a practical learning log and a growing showcase of my technica
 * **GitHub**
 * **Xóm Data**
 
+## 💬 Thank you for reading this far!
+
+I'm always open to **Data Analyst opportunities, interesting data projects, and meaningful collaborations**.
+Feel free to reach out — I'd love to connect.
+
+**Bùi Thu Hằng** — Data Analyst
+Reach me via [LinkedIn](https://www.linkedin.com/in/buithuhang/) or [Email](mailto:buihang.work@gmail.com).
+
 ---
 
 *Continuously updated as I learn, practice, and solve new data problems.*

@@ -170,3 +170,26 @@ Reach me via [LinkedIn](https://www.linkedin.com/in/buithuhang/) or [buihang.wor
 ---
 
 *Continuously updated as I learn, practice, and solve new data problems.*
+
+<!-- xomdata:stats:start -->
+
+**8** problems solved on [Xom Data](https://xomdata.com/practice).
+
+| Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
+|---|:---:|:---:|:---:|:---:|:---:|
+| SQL | 8 | 0 | 0 | 0 | 8 |
+
+**Recently solved**
+
+- [easy-orderby-001](https://xomdata.com/practice/easy-orderby-001) · Easy · 2026-08-18
+- [easy-minmax-001](https://xomdata.com/practice/easy-minmax-001) · Easy · 2026-08-18
+- [easy-max-001](https://xomdata.com/practice/easy-max-001) · Easy · 2026-08-18
+- [easy-limit-004](https://xomdata.com/practice/easy-limit-004) · Easy · 2026-08-18
+- [easy-limit-002](https://xomdata.com/practice/easy-limit-002) · Easy · 2026-08-18
+- [easy-limit-001](https://xomdata.com/practice/easy-limit-001) · Easy · 2026-08-18
+- [easy-like-001](https://xomdata.com/practice/easy-like-001) · Easy · 2026-08-18
+- [easy-isnull-002](https://xomdata.com/practice/easy-isnull-002) · Easy · 2026-08-18
+
+_Synced 8 solutions · last update 2026-08-18_
+
+<!-- xomdata:stats:end -->

@@ -1,30 +1,75 @@
-# My Xom Data Practice Portfolio
+# Data Problem Solving
 
-Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.com/practice).
+A collection of data-related problem-solving exercises covering **SQL, Python, and Pandas**, with a focus on practical data manipulation and analytical thinking.
 
-<!-- xomdata:stats:start -->
+The solutions in this repository are developed through hands-on practice and automatically synchronized from [Xóm Data](https://xomdata.com/) after successful submissions.
 
-**2** problems solved on [Xom Data](https://xomdata.com/practice).
+## What This Repository Covers
 
-| Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
-|---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 2 | 0 | 0 | 0 | 2 |
+### SQL
 
-**Recently solved**
+* `SELECT` and filtering
+* Sorting and aggregation
+* `GROUP BY` and `HAVING`
+* `JOIN`
+* Subqueries
+* Conditional logic
+* Data analysis and transformation
 
-- [easy-like-001](https://xomdata.com/practice/easy-like-001) · Easy · 2026-08-18
-- [easy-isnull-002](https://xomdata.com/practice/easy-isnull-002) · Easy · 2026-08-18
+### Python
 
-_Synced 2 solutions · last update 2026-08-18_
+* Variables and data types
+* Conditions and loops
+* Functions
+* Lists, dictionaries, and other data structures
+* Problem-solving with Python
 
-<!-- xomdata:stats:end -->
+### Pandas
 
-## About this repo
+* DataFrame manipulation
+* Filtering and sorting
+* Aggregation
+* Data transformation
+* Working with tabular data
 
-- Each solution lives under `practice/<language>/<difficulty>/<id>-<slug>/`.
-- Every file header links back to the original problem on Xom Data.
-- Commits are dated by when I actually solved each problem, so the contribution
-  graph reflects my real learning history.
+## Repository Structure
 
-_Everything outside the stats markers above is mine to edit — the sync only
-rewrites the stats block, the `practice/` folder, and `.xomdata/`._
+```text
+data-problem-solving/
+│
+├── sql/
+│   └── ...
+│
+├── python/
+│   └── ...
+│
+├── pandas/
+│   └── ...
+│
+└── README.md
+```
+
+## Practice Approach
+
+Each problem is approached with a focus on:
+
+1. Understanding the business or data requirement
+2. Translating the requirement into a logical solution
+3. Writing clear and efficient code
+4. Validating the result against the expected output
+5. Improving problem-solving and analytical skills
+
+## Purpose
+
+This repository serves as a practical record of my continuous learning and problem-solving practice in data analytics.
+
+It complements my larger data analytics projects by demonstrating my ability to work with data at the query, transformation, and programming levels.
+
+## Tools
+
+* **SQL**
+* **Python**
+* **Pandas**
+* **Git & GitHub**
+
+*Continuously updated as I solve new problems and strengthen my data analytics skills.*

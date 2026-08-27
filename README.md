@@ -173,26 +173,26 @@ Reach me via [LinkedIn](https://www.linkedin.com/in/buithuhang/) or [buihang.wor
 
 <!-- xomdata:stats:start -->
 
-**24** problems solved on [Xom Data](https://xomdata.com/practice).
+**28** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 2 | 0 | 0 | 0 | 2 |
-| SQL | 18 | 4 | 0 | 0 | 22 |
+| SQL | 20 | 6 | 0 | 0 | 26 |
 
 **Recently solved**
 
+- [medium-subquery-103](https://xomdata.com/practice/medium-subquery-103) · Medium · 2026-08-27
+- [easy-where-003](https://xomdata.com/practice/easy-where-003) · Easy · 2026-08-24
+- [easy-where-002](https://xomdata.com/practice/easy-where-002) · Easy · 2026-08-24
+- [medium-case-124](https://xomdata.com/practice/medium-case-124) · Medium · 2026-08-19
 - [medium-having-019](https://xomdata.com/practice/medium-having-019) · Medium · 2026-08-19
 - [medium-groupby-027](https://xomdata.com/practice/medium-groupby-027) · Medium · 2026-08-18
 - [medium-leftjoin-031](https://xomdata.com/practice/medium-leftjoin-031) · Medium · 2026-08-18
 - [medium-join-001](https://xomdata.com/practice/medium-join-001) · Medium · 2026-08-18
 - [easy-avg-001](https://xomdata.com/practice/easy-avg-001) · Easy · 2026-08-18
 - [easy-sum-001](https://xomdata.com/practice/easy-sum-001) · Easy · 2026-08-18
-- [easy-count-001](https://xomdata.com/practice/easy-count-001) · Easy · 2026-08-18
-- [easy-distinct-006](https://xomdata.com/practice/easy-distinct-006) · Easy · 2026-08-18
-- [easy-where-001](https://xomdata.com/practice/easy-where-001) · Easy · 2026-08-18
-- [easy-select-002](https://xomdata.com/practice/easy-select-002) · Easy · 2026-08-18
 
-_Synced 24 solutions · last update 2026-08-19_
+_Synced 28 solutions · last update 2026-08-27_
 
 <!-- xomdata:stats:end -->
